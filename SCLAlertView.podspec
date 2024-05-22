@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "SCLAlertView"
+  s.name         = "SCLAlertView-swift"
   s.version      = "0.8.2"
   s.summary      = "Beautiful Alert View. Written in Swift"
   s.homepage     = "https://github.com/vikmeup/SCLAlertView-Swift"
