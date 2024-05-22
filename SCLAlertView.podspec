@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author             = { "Viktor" => "yazexel@gmail.com" }
   s.social_media_url   = "http://twitter.com/vikmeup"
   s.platform     = :ios
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
   s.source       = { :git => "https://github.com/vikmeup/SCLAlertView-Swift.git", :tag => s.version }
   s.source_files  = "SCLAlertView/*.{swift}"
   s.swift_version = '5.0'
